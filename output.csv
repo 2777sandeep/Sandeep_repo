@@ -1,0 +1,13 @@
+Metric,Value
+Shortest Trip Pickup Time,2024-01-01 00:52:00
+Shortest Trip Dropoff Time,2024-01-01 00:52:00
+Shortest Trip Duration (minutes),0.0
+Shortest Trip Distance (miles),0.0
+Longest Trip Pickup Time,2024-01-01 00:50:00
+Longest Trip Dropoff Time,2024-01-01 01:42:00
+Longest Trip Duration (minutes),52.0
+Longest Trip Distance (miles),2.3
+Total Amount Paid for Rate Code ID 1,3227.98
+Total Amount Paid for Rate Code ID 5,134.88
+Total Amount Paid for Rate Code ID 2,91.38
+Average Price per Kilometer,9.832735553657843
